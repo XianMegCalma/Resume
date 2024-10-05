@@ -1,0 +1,74 @@
+.resume-container {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 36px;
+  color: #2e6d5f;
+}
+
+.header h2 {
+  font-size: 18px;
+  color: #5a5a5a;
+  margin-top: 5px;
+}
+
+.contact {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.contact p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #5a5a5a;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h3 {
+  background-color: #2e6d5f;
+  color: white;
+  padding: 5px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.job {
+  margin-bottom: 15px;
+}
+
+.job h4 {
+  margin: 0;
+  font-size: 16px;
+  color: #2e6d5f;
+}
+
+.job p {
+  font-size: 14px;
+  margin: 5px 0;
+  color: #5a5a5a;
+}
+
+ul {
+  padding-left: 20px;
+  color: #5a5a5a;
+}
+
+ul li {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
